@@ -1381,7 +1381,7 @@
 
         <!-- Authenticator Properties -->
         <identity.outbound.auth.oidc.version>5.4.1</identity.outbound.auth.oidc.version>
-        <swagger-parser-version>2.0.14</swagger-parser-version>
+        <swagger-parser-version>2.0.18</swagger-parser-version>
         <swagger.inflector.oas3.version>2.0.5</swagger.inflector.oas3.version>
         <nimbus.jwt.version>7.3.0.wso2v1</nimbus.jwt.version>
     </properties>
